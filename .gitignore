@@ -85,4 +85,4 @@ crashlytics-build.properties
 /dataSources/
 /dataSources.local.xml
 
-.idea
+/.idea/
